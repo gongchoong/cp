@@ -9,3 +9,5 @@ cp2
 5
 
 after amend
+
+Squash 1
