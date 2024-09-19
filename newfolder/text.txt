@@ -11,3 +11,5 @@ quack1
 Quack2
 Quack3
 Quack4
+
+quack2 before rebase
