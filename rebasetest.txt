@@ -1,0 +1,20 @@
+hello world
+
+Cp1
+cp2
+1
+2
+3
+4
+5
+
+after amend
+
+Squash 1
+Squash 2
+
+Hello1
+hello2
+
+Hello3
+Hello4
