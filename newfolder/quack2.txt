@@ -1,0 +1,16 @@
+hello world
+
+Cp1
+cp2
+1
+2
+3
+4
+
+quack1
+Quack2
+Quack3
+Quack4
+
+quack2 before rebase
+quack2 before rebase 2
