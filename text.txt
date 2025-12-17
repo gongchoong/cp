@@ -12,6 +12,3 @@ after amend
 
 Squash 1
 Squash 2
-
-Hello1
-hello2
