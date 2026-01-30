@@ -1,3 +1,4 @@
+
 hello world
 
 Cp1
@@ -12,3 +13,5 @@ after amend
 
 Squash 1
 Squash 2
+
+revert1
